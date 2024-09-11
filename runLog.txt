@@ -1,0 +1,79 @@
+Student Information:
+Student ID: 5
+Name: Samuel Samuels
+Level: Senior
+Major: Chemistry
+GPA: 3.9
+Advisor ID: 18
+
+Student ID: 10
+Name: Jonny Johnson
+Level: Sophomore
+Major: Biology
+GPA: 3.2
+Advisor ID: 16
+
+Student ID: 12
+Name: Kim Kim
+Level: Junior
+Major: Mathematics
+GPA: 3.7
+Advisor ID: 16
+
+Student ID: 15
+Name: Jake Smith
+Level: Junior
+Major: Computer Science
+GPA: 3.5
+Advisor ID: 16
+
+Student ID: 17
+Name: Mike Miller
+Level: Freshman
+Major: Psychology
+GPA: 3
+Advisor ID: 16
+
+Student ID: 20
+Name: Drew Davis
+Level: Senior
+Major: Electrical Engineering
+GPA: 3.8
+Advisor ID: 16
+
+Student ID: 25
+Name: Nataniel Nelson
+Level: Sophomore
+Major: Physics
+GPA: 3.4
+Advisor ID: 16
+
+Student ID: 150
+Name: Daniel Daniels
+Level: Junior
+Major: Mechanical Engineering
+GPA: 4
+Advisor ID: 18
+
+Student ID: 180
+Name: Josh Johnson
+Level: Junior
+Major: Computer Engineering
+GPA: 3.9
+Advisor ID: 18
+
+
+Faculty Information:
+Faculty ID: 16
+Name: John Garden
+Level: Professor
+Department: Math
+Advisees: 15 10 20 17 12 25 
+
+Faculty ID: 18
+Name: Paul Holand
+Level: Professor
+Department: English
+Advisees: 5 150 190 180 
+
+
